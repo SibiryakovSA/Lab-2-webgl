@@ -4,10 +4,10 @@
 для запуска нужно запустить файл app.js через node (node app.js)
 
 Результат:
-![](screenshots/2.jpg)
+![](screenshots/2.png)
 
 ТЗ:
-![](screenshots/1.jpg)
+![](screenshots/1.png)
 
 Для поворота используются клавиши W, A, S, D, Z, X
 Для перемещения используются клавиши стрелок
